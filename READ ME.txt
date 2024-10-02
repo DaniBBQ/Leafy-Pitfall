@@ -1,0 +1,13 @@
+Integrantes:
+- Daniel Felipe Gómez Fonseca
+- Samuel Otalora De La Cuadra
+
+Antes de jugar es recomendable revisar el manual para comprender las mecánicas del juego Leafy_Pitfall_es
+
+Controles:
+Q = cancelar accion
+W = saltar turno
+Click derecho = atacar
+D = inventario
+Click izquierdo = moverse
+E = equipar item de inventario
